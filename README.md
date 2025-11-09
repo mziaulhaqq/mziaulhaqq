@@ -174,11 +174,6 @@ I am committed to fostering collaborative, professional, and high-performing tea
 - AI Builder and Copilot Studio integration
 - Power App Component Framework
 
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: [your-linkedin](your-linkedin-url)
-- 📧 Email: your-email@example.com
-
 ## ⚡ Fun Facts
 
 - 🏗️ Architecture enthusiast - Love designing scalable solutions
